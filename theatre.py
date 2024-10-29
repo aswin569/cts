@@ -1,6 +1,5 @@
 no_of_ticket= int(input("Enter the number of tickets :"))
 total_cost =0
-discount =0
 if not(5 <= no_of_ticket <=40):
     print("Minimum 0f 5 and maximum of 40 tickets")
 else:
